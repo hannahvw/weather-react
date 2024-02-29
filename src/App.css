@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.attribute {
+  font-size: 1rem;
+  color: #e1e5ee;
+}
+
+.attribute a {
+  color: #fff;
+  color: #e1e5ee;
+}
